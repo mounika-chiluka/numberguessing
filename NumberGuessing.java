@@ -1,6 +1,6 @@
-package guessinggame;
-* Java game “Guess a Number” that allows user to guess a random number that has been generated.
-*/
+package GuessingGame;
+//* Java game “Guess a Number” that allows user to guess a random number that has been generated.
+//*/
 import javax.swing.*;
 
 public class GuessingGame {
